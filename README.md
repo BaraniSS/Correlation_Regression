@@ -1,6 +1,6 @@
 # Correlation and regression for data analysis
-## NAME: DHANUSHA K
-## REG NO: 212223040034
+## NAME: BARANI SS
+## REG NO: 212224230032
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
